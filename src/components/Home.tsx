@@ -1,4 +1,11 @@
+import TaskList from './taskList/TaskList'
 const Home = () => {
-    return <h1>Home</h1>;
+    return (
+        <div>
+            <h1>Home</h1>
+            <TaskList />
+            
+
+        </div>)
 }
 export default Home;
