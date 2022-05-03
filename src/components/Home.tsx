@@ -1,9 +1,9 @@
-import TaskList from './taskList/TaskList'
+import MorningForm from './morningForm/MorningForm'
 const Home = () => {
     return (
         <div>
             <h1>Home</h1>
-            <TaskList />
+            <MorningForm />
             
 
         </div>)
