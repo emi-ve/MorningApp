@@ -1,3 +1,7 @@
+#In Progress - Morning App
+
+I am building an app that will include features to get you started in the morning. Work in progress
+----
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
